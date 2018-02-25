@@ -1,0 +1,11 @@
+name: Portfolio
+version: 1.0.0
+description: "Jason Swetzoff a Portland based UX designer."
+icon: globe
+author:
+  name: Jason Swetzoff
+  email: jaswetz@gmail.com
+  url: http://www.swetzoff.com
+homepage: http://www.swetzoff.com
+keywords: ux, designer, development, usability, ia, interactive, portfolio
+license: MIT

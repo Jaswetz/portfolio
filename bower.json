@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "description": "Jason Swetzoff a Portland based UX designer.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Jason Swetzoff"
+  ],
+  "license": "ISC",
+  "homepage": "http://www.swetzoff.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "user/themes/portfolio/js/components"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
